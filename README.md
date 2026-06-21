@@ -81,4 +81,8 @@ pytest -q
 
 ---
 
+## License
+
+This project is released under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 If you want, I can initialize a Git repo here and push to GitHub (will need your remote and auth).
