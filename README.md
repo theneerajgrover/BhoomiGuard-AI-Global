@@ -1,6 +1,6 @@
 # BhoomiGuard AI Global
 
-![BhoomiGuard logo](images/brand-logo.svg)
+![BhoomiGuard logo](images/Logo.png)
 
 BhoomiGuard AI Global is an open, extensible platform for plant, soil and crop health monitoring using AI and Retrieval-Augmented Generation (RAG). It provides tools to collect field data, analyze imagery, run AI inference for disease and nutrient stress detection, and deliver actionable recommendations to farmers worldwide.
 
