@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220">
+  <rect x="20" y="40" width="120" height="160" rx="12" fill="#f8fafc" stroke="#0ea5a4"/>
+  <text x="80" y="120" font-family="Arial" font-size="12" text-anchor="middle">Mobile App
+Users</text>
+
+  <rect x="200" y="60" width="180" height="120" rx="10" fill="#fff7ed" stroke="#f97316"/>
+  <text x="290" y="120" font-family="Arial" font-size="12" text-anchor="middle">Upload Photo & Meta</text>
+
+  <rect x="440" y="60" width="200" height="120" rx="10" fill="#ecfeff" stroke="#06b6d4"/>
+  <text x="540" y="120" font-family="Arial" font-size="12" text-anchor="middle">Edge/Cloud Inference</text>
+
+  <line x1="140" y1="120" x2="200" y2="120" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="380" y1="120" x2="440" y2="120" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569" />
+    </marker>
+  </defs>
+</svg>
