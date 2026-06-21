@@ -40,7 +40,7 @@ flowchart LR
 - Data flow and inference pipeline (image): `images/data-flow.svg`
 - CI / contribution workflow (image): `images/ci-workflow.svg`
 
-![Data flow](images/data-flow.svg)
+![Data flow](images/dataflow.png)
 
 ### CI / Contribution workflow
 
